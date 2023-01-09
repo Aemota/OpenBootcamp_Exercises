@@ -15,6 +15,7 @@ class Persona {
     private int telefono;
 
     // SETTERS
+    
     public void setEdad(int edad){
         this.edad = edad;
     }
